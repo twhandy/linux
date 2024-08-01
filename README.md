@@ -1,11 +1,11 @@
-# Welcome to my knowledge base of Ubuntu Linux
+# Welcome to my knowledge base of Linux
 
 <p>
-  In this section, I will be highlighting my knowledge of Ubuntu Linux. 
+  In this section, I will be highlighting my knowledge of Linux, particularly Ubuntu and Kali. I am fairly new to all things Linux and this will be an evolving resource as I learn new skills to showcase.
 </p>
 
 <p>
-  The information found here will cover basics into more advanced skills as I learn them; ranging from installing Ubuntu as a virtual machine to creating my own modded Minecraft server. You will find YouTube videos, accompanied with supplimental, hand crafted documentation, which showcase and explain each process, as well as any troubleshooting I performed.
+  The information found here will cover anything from basics, such as installing Linux as a virtual machines, to more advanced skills, such as creating automated scripts. You will find YouTube videos, accompanied with hand crafted documentation, which explain each process, as well as any troubleshooting I performed.  If you dont find a particular subject within this repository, check back, it is bound to appear at some point.
 </p>
 
 <p>
@@ -13,5 +13,5 @@
 </p>
 
 <p>
-  Not much else to say other than I hope this is helpful to someone, as well as succeeding at my goal of learning the in's and out's of Ubuntu Linux.  Thanks for reading and enjoy!
+  Not much else to say other than I hope the information and tutorials found here are helpful to someone. I want to succeed at my goal of learning the in's and out's of Linux and sharing what I learn is one way I plan to achieve that goal.  Thanks for reading and enjoy!
 </p>
